@@ -45,5 +45,4 @@ Dada la sensibilidad de la información fiscal, se han aplicado las siguientes m
 * **Cifrado:** Implementación de **BitLocker** para proteger los discos duros ante robos físicos.
 * **Gestión de Usuarios:** Estructura basada en el **principio de mínimo privilegio**.
   
-  > [!NOTE]
 > **Nota sobre entregables:** Todos los detalles técnicos, capturas de pantalla del proceso y justificaciones legales de los entregables se encuentran detallados dentro del documento PDF principal adjunto en este proyecto.
