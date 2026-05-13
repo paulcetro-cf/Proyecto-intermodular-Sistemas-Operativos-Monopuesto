@@ -7,6 +7,7 @@ Este repositorio contiene la documentación y los procedimientos técnicos reali
 * **Módulo:** Sistemas operativos monopuestos
 
 ---
+> **Nota:** El proyecto completo, incluyendo todos los entregables y documentación técnica, se encuentra consolidado en un solo documento dentro de este repositorio.
 
 ##  Contexto del Proyecto
 El proyecto plantea la infraestructura de software para una **gestoría empresarial y fiscal** enfocada en la optimización de costes y el asesoramiento eficiente. Se ha seleccionado **Windows 11 Pro** por su interfaz intuitiva, soporte nativo para herramientas administrativas y avanzadas funciones de seguridad.
